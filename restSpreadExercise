@@ -13,3 +13,8 @@ function filterOutOdds(...nums) {
     }) ;
 }
 
+//Find Min:
+
+function findMin(...nums){ return Math.min(...nums)}
+
+//MergeObjects
